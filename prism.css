@@ -4,7 +4,7 @@
  * Based on “Polyfilling the gaps” talk slides http://lea.verou.me/polyfilling-the-gaps/
  * @author Lea Verou
  */
-
+@import url('https://fonts.googleapis.com/css?family=Ubuntu+Mono');
 code[class*="language-"],
 pre[class*="language-"] {
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
